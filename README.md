@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Irfan</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate fullstack developer from Pakistan</h3>
 <img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a17ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="a17ahmed" /> </p>
